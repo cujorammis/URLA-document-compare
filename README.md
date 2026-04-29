@@ -10,7 +10,27 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
 
 ## Prerequisites
   * Python 3.11 or higher
-  * HERE! Any software needed to create front end web page ( React or similar )
+  * Software needed to create front end web page ( React or similar )
   * OpenAI Account and API Key (GPT-4 Access required)
   * Code Editor ( IDE ) I like to use Vscode, but others like Cursor is a good choice  
+
+## Installation / Setting up Enviornment
+
+ 1. **Install required packages**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. **Requirements.txt file:** 
+
+   Flask==3.0.0
+   Werkzeug==3.0.0
+   PyPDF2==4.0.1
+   openai==1.3.0
+   markdown==3.5.1
+   weasyprint==60.0
+
+
+     
 
