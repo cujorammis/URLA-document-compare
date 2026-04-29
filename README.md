@@ -24,13 +24,13 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
 
  2. **Requirements.txt file:** 
 
-   ```Flask==3.0.0
-   Werkzeug==3.0.0
-   PyPDF2==4.0.1
-   openai==1.3.0
-   markdown==3.5.1
-   weasyprint==60.0
-   ```
+     ```Flask==3.0.0
+      Werkzeug==3.0.0
+      PyPDF2==4.0.1
+      openai==1.3.0
+      markdown==3.5.1
+      weasyprint==60.0
+      ```
 3. **Setup your OpenAI API Key**
 
    ```bash
