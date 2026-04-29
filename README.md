@@ -31,9 +31,31 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
       markdown==3.5.1
       weasyprint==60.0
       ```
+     
 3. **Setup your OpenAI API Key**
 
    ```bash
    export OPENAI_API_KEY='your-api-key-here'  # On Windows, use: set OPENAI_API_KEY=your-api-key-here
    ```  
+
+## AI Features to Be Implemented
+
+
+## User Interface
+
+
+## BackEnd
+
+## App Usuage
+
+## Technical Approach
+
+## Examples
+
+   - Screen shots
+     
+## Evaluation Strategy
+
+## Observability Plan 
+
 
