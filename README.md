@@ -40,12 +40,15 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
 
 ## AI Features to Be Implemented
 
+  1. Prompt engineering - Two prompts in the UI.  Compare entire document.  Or  Compare only a section.
+  2. Structured outputs - The compare results are structured in both a Mark down file and an PDF file 
 
 ## User Interface
 
    <img width="300" height="350" alt="Mock-UI-1" src="https://github.com/user-attachments/assets/054f3fff-ba0d-4d76-9c9f-b54806a0d035" />
 
    <img width="300" height="350" alt="Mock-UI-2" src="https://github.com/user-attachments/assets/869908b0-2cff-4746-99eb-f6e130e4a435" />
+
 
 ## BackEnd
 
