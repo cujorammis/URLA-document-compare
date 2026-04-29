@@ -45,9 +45,13 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
 
 ## User Interface
 
-   <img width="300" height="350" alt="Mock-UI-1" src="https://github.com/user-attachments/assets/054f3fff-ba0d-4d76-9c9f-b54806a0d035" />
+ 1. Mock Web UI showing option to compare the entire document:
+    
+     <img width="300" height="350" alt="Mock-UI-1" src="https://github.com/user-attachments/assets/054f3fff-ba0d-4d76-9c9f-b54806a0d035" />
 
-   <img width="300" height="350" alt="Mock-UI-2" src="https://github.com/user-attachments/assets/869908b0-2cff-4746-99eb-f6e130e4a435" />
+ 2. Mock Web UI showing option to compare just one section of the URLA:
+    
+     <img width="300" height="350" alt="Mock-UI-2" src="https://github.com/user-attachments/assets/869908b0-2cff-4746-99eb-f6e130e4a435" />
 
 
 ## BackEnd
