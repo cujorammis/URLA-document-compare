@@ -40,7 +40,7 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
 
 ## AI Features to Be Implemented
 
-  1. Prompt engineering - Two prompts in the UI.  Compare entire document.  Or  Compare only a section.
+  1. Prompt engineering - Two prompts in the UI.  1. Compare entire document.  Or  2. Compare only a section.
   2. Structured outputs - The compare results are structured in both a Mark down file and an PDF file 
 
 ## User Interface / Front End
