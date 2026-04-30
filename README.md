@@ -62,7 +62,7 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
 ## Technical Approach
 
 ## Prompt Examples
-   - Enter the first URLA pdf file and the second one to compare in the UI web page
+   - Enter the first URLA pdf file in Documet A: Choose File and the second one to compare in Document B: Chosse in the UI web page
      
 ## Evaluation Strategy
 
