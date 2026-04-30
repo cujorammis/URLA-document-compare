@@ -58,8 +58,12 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
 
 ## App Usuage
 
+ ### UI entries
 
-## Technical Approach
+ ### Expected Results
+ 
+
+
 
 ## Prompt Examples
     
