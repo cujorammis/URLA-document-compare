@@ -62,11 +62,10 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
 ## Technical Approach
 
 ## Prompt Examples
-    <img width="606" height="224" alt="image" src="https://github.com/user-attachments/assets/8d81e5a5-56c1-4dd2-b56d-1dacc2824815" />
-
-    <img width="695" height="228" alt="image" src="https://github.com/user-attachments/assets/227825e6-a994-4295-ae5c-dd48af550a28" />
-
+    
    - Enter the first URLA pdf file in Documet A: Choose File and the second one to compare in Document B: Chosse in the UI web page
+
+   - Choose to compare entire document OR just a section of the URLA Document
      
 ## Evaluation Strategy
 
