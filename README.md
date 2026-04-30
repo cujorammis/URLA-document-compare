@@ -45,7 +45,7 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
 
 ## User Interface / Front End
 
- 1. Mock Web UI showing option to compare the entire document:
+ 1. Mock Web UI showing option to compare the entire document: 
     
      <img width="300" height="350" alt="Mock-UI-1" src="https://github.com/user-attachments/assets/054f3fff-ba0d-4d76-9c9f-b54806a0d035" />
 
@@ -61,9 +61,8 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
 
 ## Technical Approach
 
-## Examples
- ### testing
-   - Screen shots
+## Prompt Examples
+   - Enter the first URLA pdf file and the second one to compare in the UI web page
      
 ## Evaluation Strategy
 
