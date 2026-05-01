@@ -28,13 +28,14 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
 
  2. Requirements.txt file: 
 
-     ```Flask==3.0.0
+     ``'
+      Flask==3.0.0
       Werkzeug==3.0.0
       PyPDF2==4.0.1
       openai==1.3.0
       ```
      
-3. Setup your OpenAI API Key
+4. Setup your OpenAI API Key
 
    ```bash
    export OPENAI_API_KEY='your-api-key-here'  # On Windows, use: set OPENAI_API_KEY=your-api-key-here
