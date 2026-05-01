@@ -64,7 +64,7 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
 
       ![My Photo](files/MockUI.jpg)
      
-   - Example output
+     * Example output
 
       [View Data](files/URLA-compare-output.json)
      
