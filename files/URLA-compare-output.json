@@ -30,21 +30,21 @@
           "document_a": "",
           "document_b": "Bonds, Bond Bank, 3333333333, 1000",
           "significance": "high",
-          "explanation": "Additional Account Type in document_b"
+          "explanation": "The second document incluses Additional Account that is absent from the first."
         },
         {
-          "field_or_section": "Down Payment Percentage",
-          "document_a": "20%",
-          "document_b": "25%",
+          "field_or_section": "Unpaid Balance",
+          "document_a": "$225,000",
+          "document_b": "$226,000",
           "significance": "high",
-          "explanation": "Significant change in down payment amount from 20% to 25%. This materially affects loan-to-value ratio and lending terms."
+          "explanation": "Significant change in Unpaid Balace amount from $225,000 to $226,000."
         },
         {
           "field_or_section": "Loan Amount",
-          "document_a": "$400,000",
-          "document_b": "$375,000",
+          "document_a": "$200,000",
+          "document_b": "$215,000",
           "significance": "high",
-          "explanation": "Loan amount reduced by $25,000. This is a material change that affects monthly payments, debt-to-income calculations, and loan approval."
+          "explanation": "Loan amount increased by $15,000. This is a material change that affects monthly payments, debt-to-income calculations, and loan approval."
         }
       ]
     },
