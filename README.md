@@ -45,13 +45,13 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
 
 ## Technical Approach
 
-   ### UI / Front End
+    ### UI / Front End
      1. Create a font end Web Interface to allow two URLA Documents to be uploaded for comparison.
      2. Also, ask if the user wants to compare the entire document or just one section of the URLA.
      3. Use Flask and Werkzeug to allow the Web Inteerface interact with Python
      4. See screen shot example in Example Prompts & Output 
 
-   ### BackEnd
+    ### BackEnd
      1. Create python program(s) 
         
 ## Example Prompts & Output
