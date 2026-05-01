@@ -66,8 +66,7 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
 
    - Example output
 
-    ```json
-    {
+    ```json{
   "report_generated": "2026-05-01T14:32:18.456789",
   "document_a": "URLA_Form_1.pdf",
   "document_b": "URLA_Form_2.pdf",
