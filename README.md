@@ -81,5 +81,5 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
 
   * I would start with adding logging to the App.  Log the prompt requests (from UI), any errors and events like any GPT-4 PDF calls.
   * Python's logging module with JSON formatting would be one good way for adding logging
-  * Then I would add some tracing.  One good tool to use is LangFuse SDK.
+  * Then I would add some tracing.  One good tool to use is LangFuse SDK.  
   * Add logic to trace the comparison process, document inputs, and latency, and token costs.
