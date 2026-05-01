@@ -45,6 +45,16 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
 
 ## Technical Approach
 
+UI / Front End
+   1. here
+   2. here
+
+
+BackEnd
+   1.  here
+   2.  here
+
+
     ### UI / Front End
      1. Create a font end Web Interface to allow two URLA Documents to be uploaded for comparison.
      2. Also, ask if the user wants to compare the entire document or just one section of the URLA.
@@ -72,10 +82,6 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
     
      <img width="300" height="350" alt="Mock-UI-2" src="https://github.com/user-attachments/assets/869908b0-2cff-4746-99eb-f6e130e4a435" />
 
-
-## BackEnd
-
- - Here!
 
 ## Evaluation Strategy
 
