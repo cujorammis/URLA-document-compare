@@ -10,7 +10,6 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
 
 ## Prerequisites
   * Python 3.11 or higher
-  * Software needed to create front end web page ( React or similar )
   * OpenAI Account and API Key (GPT-4 Access required)
   * Code Editor ( IDE ) I like to use Vscode, but others like Cursor is a good choice  
 
@@ -28,8 +27,6 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
       Werkzeug==3.0.0
       PyPDF2==4.0.1
       openai==1.3.0
-      markdown==3.5.1
-      weasyprint==60.0
       ```
      
 3. Setup your OpenAI API Key
@@ -41,7 +38,7 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
 ## AI Features to Be Implemented
 
   1. Prompt engineering - Two prompts in the UI.  1. Compare entire document.  Or  2. Compare only a section.
-  2. Structured outputs - The compare results are structured in both a Mark down file and an PDF file 
+  2. Structured outputs - The compare results are structured and returned in a JSON file 
 
 ## User Interface / Front End
 
