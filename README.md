@@ -63,10 +63,6 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
 
      <img width="300" height="350" alt="Mock-UI-1" src="https://github.com/user-attachments/assets/054f3fff-ba0d-4d76-9c9f-b54806a0d035" />
 
-    - Example if user chooses to just compare one section of the URLA
-
-    <img width="300" height="350" alt="Mock-UI-2" src="https://github.com/user-attachments/assets/869908b0-2cff-4746-99eb-f6e130e4a435" />
-    
 ## Evaluation Strategy
 
 ## Observability Plan 
