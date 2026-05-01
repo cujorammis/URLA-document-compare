@@ -72,7 +72,10 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
 
    * I would utilize LangSmith to help Analyze Model Performance.
    * Would need a LangSmith API key that python would use to connect with LangSmith.
-   * Add a data set in LangSmith and 
+   * Add a Dataset in LangSmith and upload a JSONL file with the expected columns ( based on how the compare output is looked at ) .
+   * Add code in python to utilize LangSmith.
+   * Review results after numerous runs of the URLA compare App
+      
      
 ## Observability Plan 
 
