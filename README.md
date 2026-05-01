@@ -13,6 +13,11 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
   * OpenAI Account and API Key (GPT-4 Access required)
   * Code Editor ( IDE ) I like to use Vscode, but others like Cursor is a good choice  
 
+## AI Features to Be Implemented
+
+  1. Prompt engineering - Two prompts in the UI.  1. Compare entire document.  Or  2. Compare only a section.
+  2. Structured outputs - The compare results are structured and returned in a JSON file 
+
 ## Installation / Setting up Enviornment
 
  1. Install required packages
@@ -35,10 +40,15 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
    export OPENAI_API_KEY='your-api-key-here'  # On Windows, use: set OPENAI_API_KEY=your-api-key-here
    ```  
 
-## AI Features to Be Implemented
+## Technical Approach
 
-  1. Prompt engineering - Two prompts in the UI.  1. Compare entire document.  Or  2. Compare only a section.
-  2. Structured outputs - The compare results are structured and returned in a JSON file 
+## Example Prompts & Output
+
+   - Enter the first URLA pdf file in Documet A: Choose File and the second one to compare in Document B: Chosse in the UI web page
+
+   - Choose to compare entire document OR just a section of the URLA Document
+
+   here!
 
 ## User Interface / Front End
 
@@ -53,21 +63,8 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
 
 ## BackEnd
 
-## App Usuage
+ - Here!
 
- ### UI entries
-
- ### Expected Results
- 
-
-
-
-## Prompt Examples
-    
-   - Enter the first URLA pdf file in Documet A: Choose File and the second one to compare in Document B: Chosse in the UI web page
-
-   - Choose to compare entire document OR just a section of the URLA Document
-     
 ## Evaluation Strategy
 
 ## Observability Plan 
