@@ -70,7 +70,9 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
      
 ## Evaluation Strategy
 
-   * here
+   * I would utilize LangSmith to help Analyze Model Performance.
+   * Would need a LangSmith API key that python would use to connect with LangSmith.
+   * Add a data set in LangSmith and 
      
 ## Observability Plan 
 
