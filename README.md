@@ -64,6 +64,8 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
 
      <img width="300" height="350" alt="Mock-UI-1" src="https://github.com/user-attachments/assets/054f3fff-ba0d-4d76-9c9f-b54806a0d035" />
 
+      ![My Photo](files/MockUI.jpg)
+     
    - Example output
 
       [View Data](files/URLA-compare-output.json)
