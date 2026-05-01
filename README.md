@@ -45,14 +45,14 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
 
 ## Technical Approach
 
-UI / Front End
-   1. here
-   2. here
+  * UI / Front End
+    1. here
+    2. here
 
 
-BackEnd
-   1.  here
-   2.  here
+  * BackEnd
+    1.  here
+    2.  here
 
 
     ### UI / Front End
