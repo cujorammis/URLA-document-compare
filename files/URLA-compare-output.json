@@ -5,8 +5,8 @@
   "comparison_results": {
     "compare_mode": "entire",
     "timestamp": "2026-05-01T14:32:18.456789",
-    "document_a_pages": 5,
-    "document_b_pages": 5,
+    "document_a_pages": 9,
+    "document_b_pages": 9,
     "gpt4_analysis": {
       "summary": "The two URLA documents contain 5 differences.",
       "total_differences": 5,
