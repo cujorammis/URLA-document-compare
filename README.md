@@ -46,31 +46,22 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
 ## Technical Approach
 
   * UI / Front End
-    1. here
-    2. here
+    1. Create a font end Web Interface to allow two URLA Documents to be uploaded for comparison.
+    2. Also, ask if the user wants to compare the entire document or just one section of the URLA.
+    3. Use Flask and Werkzeug to allow the Web Inteerface interact with Python
+    4. See screen shot example in Example Prompts & Output 
 
 
   * BackEnd
-    1.  here
-    2.  here
-
-
-    ### UI / Front End
-     1. Create a font end Web Interface to allow two URLA Documents to be uploaded for comparison.
-     2. Also, ask if the user wants to compare the entire document or just one section of the URLA.
-     3. Use Flask and Werkzeug to allow the Web Inteerface interact with Python
-     4. See screen shot example in Example Prompts & Output 
-
-    ### BackEnd
-     1. Create python program(s) 
+    1.  Create python program(s) to compare the two uploaded URLA documents 
+    2.  Using OpenAI and PyPDF2, do the File compares and return compare results in a JSON structured file
         
 ## Example Prompts & Output
 
    - Enter the first URLA pdf file in Documet A: Choose File and the second one to compare in Document B: Chosse in the UI web page
-
    - Choose to compare entire document OR just a section of the URLA Document
 
-   here!
+     <img width="300" height="350" alt="Mock-UI-1" src="https://github.com/user-attachments/assets/054f3fff-ba0d-4d76-9c9f-b54806a0d035" />
 
 ## User Interface / Front End
 
