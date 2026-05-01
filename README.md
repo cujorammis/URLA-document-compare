@@ -60,6 +60,7 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
 
    - Enter the first URLA pdf file in Documet A: Choose File and the second one to compare in Document B: Chosse in the UI web page
    - Choose to compare entire document OR just a section of the URLA Document
+   - NOTE:  After uploading each URLA document it should show the file name to the right of the upload button.
 
      <img width="300" height="350" alt="Mock-UI-1" src="https://github.com/user-attachments/assets/054f3fff-ba0d-4d76-9c9f-b54806a0d035" />
 
