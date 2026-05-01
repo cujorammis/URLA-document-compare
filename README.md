@@ -16,7 +16,9 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
 ## AI Features to Be Implemented
 
   1. Prompt engineering - Two prompts in the UI.  1. Compare entire document.  Or  2. Compare only a section.
-  2. Structured outputs - The compare results are structured and returned in a JSON file 
+     - These prompts are requried because the App needs the two documents to do the compare.
+  3. Structured outputs - The compare results are structured and returned in a JSON file
+     - Output required and relevant because user needs to view the compare results.
 
 ## Installation / Setting up Enviornment
 
