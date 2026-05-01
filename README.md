@@ -16,11 +16,11 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
 ## AI Features to Be Implemented
 
   1. Prompt engineering - Two prompts in the UI.  1. Compare entire document.  Or  2. Compare only a section.
-     - These prompts are requried because the App needs the two documents to do the compare.
+     - These prompts are required because the App needs the two documents to do the compare.
   3. Structured outputs - The compare results are structured and returned in a JSON file
      - Output required and relevant because user needs to view the compare results.
 
-## Installation / Setting up Enviornment
+## Installation / Setting up Environment
 
  1. Install required packages
 
@@ -52,13 +52,13 @@ Our Team would greatly benefit if we could use AI to do this data compare for us
     4. See screen shot example in Example Prompts & Output 
 
 
-  * BackEnd
+  * Backend
     1.  Create python program(s) to compare the two uploaded URLA documents 
     2.  Using OpenAI and PyPDF2, do the file compares and return compare results in a JSON structured file
         
 ## Example Prompts & Output
 
-   - Enter the first URLA pdf file in Documet A: Choose File and the second one to compare in Document B: Chosse in the UI web page
+   - Enter the first URLA pdf file in Document A: Choose File and the second one to compare in Document B: Choose in the UI web page
    - Choose to compare entire document OR just a section of the URLA Document
    - NOTE:  After uploading each URLA document it should show the file name to the right of the choose file button.
 
