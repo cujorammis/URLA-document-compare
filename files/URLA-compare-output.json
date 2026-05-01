@@ -28,9 +28,9 @@
         {
           "field_or_section": "Account",
           "document_a": "",
-          "document_b": "Bond Bank",
+          "document_b": "Bonds, Bond Bank, 3333333333, 1000",
           "significance": "high",
-          "explanation": "The property type classification changed between documents. This affects appraisal requirements, insurance, and lending guidelines."
+          "explanation": "Additional Account Type in document_b"
         },
         {
           "field_or_section": "Down Payment Percentage",
