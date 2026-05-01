@@ -13,17 +13,10 @@
       "differences": [
         {
           "field_or_section": "Borrower Name",
-          "document_a": "John Michael Smith",
-          "document_b": "John M. Smith",
+          "document_a": "John M. Smith",
+          "document_b": "John Michael Smith",
           "significance": "low",
           "explanation": "Minor formatting difference in the borrower's middle name - full name vs. initial. This is likely a data entry variation and does not affect the loan application substantively."
-        },
-        {
-          "field_or_section": "Co-Borrower Present",
-          "document_a": "Yes",
-          "document_b": "No",
-          "significance": "high",
-          "explanation": "Critical difference: One document indicates a co-borrower is present while the other does not. This significantly affects loan qualification and documentation requirements."
         },
         {
           "field_or_section": "Property Street Address",
